@@ -7,9 +7,7 @@ public class Homework1_3 {
         int b = (n / 10) % 10;
         int c = n % 10;
         int d = a + b + c;
-        System.out.println(a);
-        System.out.println(b);
-        System.out.println(c);
         System.out.println(d);
     }
 }
+

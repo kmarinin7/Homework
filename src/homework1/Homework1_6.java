@@ -9,6 +9,5 @@ public class Homework1_6 {
         b = c;
         System.out.println(a);
         System.out.println(b);
-
     }
 }
