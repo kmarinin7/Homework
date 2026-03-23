@@ -9,3 +9,4 @@ public class Homework1_2 {
         System.out.println(c);
     }
 }
+
