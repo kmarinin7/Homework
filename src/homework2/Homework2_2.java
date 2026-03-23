@@ -24,4 +24,3 @@ public class Homework2_2 {
     }
 }
 
-
