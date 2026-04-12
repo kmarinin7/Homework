@@ -1,6 +1,6 @@
 package Homework6_1;
 
-public class Doctor {
+public abstract class Doctor {
     protected String name;
 
     public Doctor(String name) {
@@ -11,7 +11,5 @@ public class Doctor {
         return name;
     }
 
-    public void heal() {
-        System.out.println(name + " осматривает");
-    }
+    public abstract void heal();
 }
